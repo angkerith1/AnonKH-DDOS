@@ -1,6 +1,6 @@
 # 🇰🇭 Anonymous Cambodia DDoS Script Toolkit
 
-![Banner](https://imgur.com/a/r8TUrq8) *(Replace with your own banner image)*  
+![Banner](https://imgur.com/a/r8TUrq8.png)*  
 *"We Never Forgive. We Never Forget."*  
 
 Advanced HTTP/2 Flood & Cloudflare Bypass Attack Scripts with Node.js/Python Wrapper.
